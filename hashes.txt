@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Just You And I
+
+This log tracks the cryptographic history and versioning for the song **Just You And I** (just-you-and-i).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T16:32:09.553423 | `v1` | `81c7063a52b8970dcf45e7886fc138a5478f942c5f97250b2f96f8cda3cf71c4` | `3831ca23a99a16565688af96f725068ecc6817b110e6687ebfbff73a6928c6c0` | `2026-05-29_just-you-and-i-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
